@@ -47,11 +47,12 @@ Haverá diversas reuniões para definição da estratégia de vendas e os relat�
 ![dashboard_01_v1](https://user-images.githubusercontent.com/82332461/138965140-d5708d89-e925-4579-b2c9-f8b8e5434597.png)
 
 
+LINK DASHBOARD: https://app.powerbi.com/reportEmbed?reportId=e350cf97-ab80-4a1d-bd88-0b27dc10be59&autoAuth=true&ctid=b03a38b6-aa75-4869-98ba-358ae3217495&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
+
+
 # Vídeo do Dashboard
 
 O vídeo foi feito direto do Power BI Desktop pelo motivo não conter conta corporativa para publicação. O vídeo serve para mostrar um pouco da interação do dashboard.
-
-
 
 https://user-images.githubusercontent.com/82332461/138966247-f666752f-8dcd-42bc-adb5-c0d9470f44e5.mp4
 
